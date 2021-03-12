@@ -5,11 +5,12 @@ source_metadata:
   title: གཉའ་ཁྲི་བཙན་པོ་ཞིབ་འཇུག
   author: ''
   volumes:
-    eade7a0c9ded4138bd73f29dbdcfbee5:
+    23e7d01377a141d9a4532fa5a29f22b4:
       image_group_id: I8LS20328
-      title: ''
+      title: Volume 1 of gnya' khri btsan po zhib 'jug
       volume_number: 1
       total_pages: 805
+      base_file: v001.txt
 ebook_metadata:
   title: གཉའ་ཁྲི་བཙན་པོ་ཞིབ་འཇུག
   author: ''
